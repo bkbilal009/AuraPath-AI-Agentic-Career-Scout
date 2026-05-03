@@ -1,4 +1,0 @@
-openai
-gradio
-PyPDF2
-python-docx
