@@ -54,7 +54,7 @@ short_description: "Multi-modal AI ecosystem for career growth and mental resili
 ---
 
 ## ❤️ Gratitude & Mentorship
-Heartfelt gratitude to my trainers **Sir Muhammad Jawad** and **Mam Rubab Shahzadi** for their expert technical guidance. 
+
 
 A special thanks to **Dr. Zafar Shahid**, **Sir Mohammad Anwar Khan**, **Muhammad Talha**, and **Sir Asad Ullah** for their continuous support, troubleshooting assistance, and for keeping me on track throughout this journey.
 
